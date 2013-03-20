@@ -1,3 +1,5 @@
+require_recipe 'imagemagick_6_4_9_2'
+
 #execute "testing" do
 #  command %Q{
 #    echo "i ran at #{Time.now}" >> /root/cheftime
