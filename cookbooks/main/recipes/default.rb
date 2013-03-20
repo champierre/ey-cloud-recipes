@@ -1,3 +1,4 @@
+require_recipe 'nginx_logrotate'
 require_recipe 'imagemagick_6_4_9_2'
 
 #execute "testing" do
